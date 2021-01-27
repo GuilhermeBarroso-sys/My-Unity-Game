@@ -1,0 +1,1206 @@
+fileFormatVersion: 2
+guid: cfcfd3af954eeb54cb041fe6d75a983b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8205998563133994085
+    second: TX Particle Flame_0
+  - first:
+      213: -7431520687157495409
+    second: TX Particle Flame_1
+  - first:
+      213: -1823380688975290120
+    second: TX Particle Flame_2
+  - first:
+      213: -3295742711998156185
+    second: TX Particle Flame_3
+  - first:
+      213: -4530988131585146152
+    second: TX Particle Flame_4
+  - first:
+      213: 369868516592981671
+    second: TX Particle Flame_5
+  - first:
+      213: 6818855982109901395
+    second: TX Particle Flame_6
+  - first:
+      213: -8982829004444206110
+    second: TX Particle Flame_7
+  - first:
+      213: -2027278240360397555
+    second: TX Particle Flame_8
+  - first:
+      213: -7749703249784046531
+    second: TX Particle Flame_9
+  - first:
+      213: -4817990106844962212
+    second: TX Particle Flame_10
+  - first:
+      213: -8608596919202699296
+    second: TX Particle Flame_11
+  - first:
+      213: -253273112396989495
+    second: TX Particle Flame_12
+  - first:
+      213: -7902023295819609367
+    second: TX Particle Flame_13
+  - first:
+      213: 5783759910166787935
+    second: TX Particle Flame_14
+  - first:
+      213: -8992804480315111967
+    second: TX Particle Flame_15
+  - first:
+      213: -300753908681215547
+    second: TX Particle Flame_16
+  - first:
+      213: 6130447062338898947
+    second: TX Particle Flame_17
+  - first:
+      213: -3304047724212141321
+    second: TX Particle Flame_18
+  - first:
+      213: 8283130703245121783
+    second: TX Particle Flame_19
+  - first:
+      213: -8314749920281237217
+    second: TX Particle Flame_20
+  - first:
+      213: -4859350008095918978
+    second: TX Particle Flame_21
+  - first:
+      213: 5983269793675741697
+    second: TX Particle Flame_22
+  - first:
+      213: 159350367249361975
+    second: TX Particle Flame_23
+  - first:
+      213: 4124832609058187006
+    second: TX Particle Flame_24
+  - first:
+      213: -6931494577077950371
+    second: TX Particle Flame_25
+  - first:
+      213: 371394195261502640
+    second: TX Particle Flame_26
+  - first:
+      213: 140694316992888720
+    second: TX Particle Flame_27
+  - first:
+      213: 7242162500780716686
+    second: TX Particle Flame_28
+  - first:
+      213: 9119180485054286587
+    second: TX Particle Flame_29
+  - first:
+      213: -1403184190006791794
+    second: TX Particle Flame_30
+  - first:
+      213: -792245272789461530
+    second: TX Particle Flame_31
+  - first:
+      213: -7489814382238039847
+    second: TX Particle Flame_32
+  - first:
+      213: 2219431513321749576
+    second: TX Particle Flame_33
+  - first:
+      213: 3892242624540825653
+    second: TX Particle Flame_34
+  - first:
+      213: 5311788507458183975
+    second: TX Particle Flame_35
+  - first:
+      213: -4294895821290842149
+    second: TX Particle Flame_36
+  - first:
+      213: -8221081154395507381
+    second: TX Particle Flame_37
+  - first:
+      213: -8757805393221890614
+    second: TX Particle Flame_38
+  - first:
+      213: -7676486741948369771
+    second: TX Particle Flame_39
+  - first:
+      213: 7855718692279703323
+    second: TX Particle Flame_40
+  - first:
+      213: -5202184445144196946
+    second: TX Particle Flame_41
+  - first:
+      213: 9084323754811495108
+    second: TX Particle Flame_42
+  - first:
+      213: -5103777725440355334
+    second: TX Particle Flame_43
+  - first:
+      213: -6446694176666578776
+    second: TX Particle Flame_44
+  - first:
+      213: -4342939329451215311
+    second: TX Particle Flame_45
+  - first:
+      213: 8578013701678782455
+    second: TX Particle Flame_46
+  - first:
+      213: -3257285609164982682
+    second: TX Particle Flame_47
+  - first:
+      213: 8984056143800027255
+    second: TX Particle Flame_48
+  - first:
+      213: 4852212819447514553
+    second: TX Particle Flame_49
+  - first:
+      213: -4164588699855261693
+    second: TX Particle Flame_50
+  - first:
+      213: -689975793803111066
+    second: TX Particle Flame_51
+  - first:
+      213: -3928721623522685972
+    second: TX Particle Flame_52
+  - first:
+      213: -8806498566189119542
+    second: TX Particle Flame_53
+  - first:
+      213: 2370924937662756724
+    second: TX Particle Flame_54
+  - first:
+      213: -7670010747995634171
+    second: TX Particle Flame_55
+  - first:
+      213: 4044042579439756133
+    second: TX Particle Flame_56
+  - first:
+      213: -6745638531739318952
+    second: TX Particle Flame_57
+  - first:
+      213: -6987915563706556593
+    second: TX Particle Flame_58
+  - first:
+      213: 7726865041286847924
+    second: TX Particle Flame_59
+  - first:
+      213: 1815740098441754777
+    second: TX Particle Flame_60
+  - first:
+      213: -4251112784838871427
+    second: TX Particle Flame_61
+  - first:
+      213: 2215350991931041106
+    second: TX Particle Flame_62
+  - first:
+      213: -1775784708706737424
+    second: TX Particle Flame_63
+  - first:
+      213: 5908540115712815714
+    second: TX Particle Flame_64
+  - first:
+      213: -8466561569359643078
+    second: TX Particle Flame_65
+  - first:
+      213: -2058506902040422478
+    second: TX Particle Flame_66
+  - first:
+      213: -2178226054139174157
+    second: TX Particle Flame_67
+  - first:
+      213: 1437053593571117799
+    second: TX Particle Flame_68
+  - first:
+      213: -7435819219018035470
+    second: TX Particle Flame_69
+  - first:
+      213: -571589521513784059
+    second: TX Particle Flame_70
+  - first:
+      213: -3024477551351936375
+    second: TX Particle Flame_71
+  - first:
+      213: 4058066188702092123
+    second: TX Particle Flame_72
+  - first:
+      213: 4777087823732534155
+    second: TX Particle Flame_73
+  - first:
+      213: 6677688882602641130
+    second: TX Particle Flame_74
+  - first:
+      213: -4495141807195819632
+    second: TX Particle Flame_75
+  - first:
+      213: 3009732971742513477
+    second: TX Particle Flame_76
+  - first:
+      213: -6967533563360944857
+    second: TX Particle Flame_77
+  - first:
+      213: -1106414287430730153
+    second: TX Particle Flame_78
+  - first:
+      213: 7634818544668437660
+    second: TX Particle Flame_79
+  - first:
+      213: 2409972792476256846
+    second: TX Particle Flame_80
+  - first:
+      213: -3734298342121624863
+    second: TX Particle Flame_81
+  - first:
+      213: 4688617815661999210
+    second: TX Particle Flame_82
+  - first:
+      213: 6267909006074577927
+    second: TX Particle Flame_83
+  - first:
+      213: -8781452853568457186
+    second: TX Particle Flame_84
+  - first:
+      213: -4169589064816490316
+    second: TX Particle Flame_85
+  - first:
+      213: 4676159951376200318
+    second: TX Particle Flame_86
+  - first:
+      213: -727095587927132777
+    second: TX Particle Flame_87
+  - first:
+      213: -5000412867803820617
+    second: TX Particle Flame_88
+  - first:
+      213: 165673757571001714
+    second: TX Particle Flame_89
+  - first:
+      213: -974453185930423637
+    second: TX Particle Flame_90
+  - first:
+      213: -2144495883360317239
+    second: TX Particle Flame_91
+  - first:
+      213: 811106431707939257
+    second: TX Particle Flame_92
+  - first:
+      213: 3553446989206463489
+    second: TX Particle Flame_93
+  - first:
+      213: 679974442061908343
+    second: TX Particle Flame_94
+  - first:
+      213: 4938678181653642467
+    second: TX Particle Flame_95
+  - first:
+      213: 3079003903659195323
+    second: TX Particle Flame_96
+  - first:
+      213: 611497688908904115
+    second: TX Particle Flame_97
+  - first:
+      213: 8861133157635287610
+    second: TX Particle Flame_98
+  - first:
+      213: -6029701158463658400
+    second: TX Particle Flame_99
+  - first:
+      213: -7584259731174990110
+    second: TX Particle Flame_100
+  - first:
+      213: 3402921599108309844
+    second: TX Particle Flame_101
+  - first:
+      213: -2950434208574396008
+    second: TX Particle Flame_102
+  - first:
+      213: 7310019173766713618
+    second: TX Particle Flame_103
+  - first:
+      213: 8965301203971471125
+    second: TX Particle Flame_104
+  - first:
+      213: 7033188577418603354
+    second: TX Particle Flame_105
+  - first:
+      213: 6106616107083406521
+    second: TX Particle Flame_106
+  - first:
+      213: 3755608785457125853
+    second: TX Particle Flame_107
+  - first:
+      213: 484640594541503401
+    second: TX Particle Flame_108
+  - first:
+      213: -3107944791955374201
+    second: TX Particle Flame_109
+  - first:
+      213: 6406188664580911711
+    second: TX Particle Flame_110
+  - first:
+      213: -8817107807303187556
+    second: TX Particle Flame_111
+  - first:
+      213: -5678888417227560264
+    second: TX Particle Flame_112
+  - first:
+      213: -8172790753293552576
+    second: TX Particle Flame_113
+  - first:
+      213: -6236401341890186068
+    second: TX Particle Flame_114
+  - first:
+      213: 2096220930652874860
+    second: TX Particle Flame_115
+  - first:
+      213: -5478399289225310857
+    second: TX Particle Flame_116
+  - first:
+      213: 1514530982633510878
+    second: TX Particle Flame_117
+  - first:
+      213: -8805738897957129782
+    second: TX Particle Flame_118
+  - first:
+      213: 7539171713262037683
+    second: TX Particle Flame_119
+  - first:
+      213: -5462652842158172079
+    second: TX Particle Flame_120
+  - first:
+      213: -8474145168193939584
+    second: TX Particle Flame_121
+  - first:
+      213: 6986002219409234142
+    second: TX Particle Flame_122
+  - first:
+      213: 993834990528798251
+    second: TX Particle Flame_123
+  - first:
+      213: 7847347824135747543
+    second: TX Particle Flame_124
+  - first:
+      213: 8566634925212773309
+    second: TX Particle Flame_125
+  - first:
+      213: 403764592096780888
+    second: TX Particle Flame_126
+  - first:
+      213: -3348652589926012476
+    second: TX Particle Flame_127
+  - first:
+      213: 8686784177623774207
+    second: TX Particle Flame_128
+  - first:
+      213: -1454658165175727988
+    second: TX Particle Flame_129
+  - first:
+      213: 8694252241444695211
+    second: TX Particle Flame_130
+  - first:
+      213: -7597887332430634511
+    second: TX Particle Flame_131
+  - first:
+      213: -3555599728309811098
+    second: TX Particle Flame_132
+  - first:
+      213: 6691877041583137
+    second: TX Particle Flame_133
+  - first:
+      213: -4111433783979452420
+    second: TX Particle Flame_134
+  - first:
+      213: -4292292559525104544
+    second: TX Particle Flame_135
+  - first:
+      213: 6385323114121830390
+    second: TX Particle Flame_136
+  - first:
+      213: 4867491148093320799
+    second: TX Particle Flame_137
+  - first:
+      213: -8483355616139161914
+    second: TX Particle Flame_138
+  - first:
+      213: 9205440928702833507
+    second: TX Particle Flame_139
+  - first:
+      213: 751006535909696444
+    second: TX Particle Flame_140
+  - first:
+      213: 6002224035038171940
+    second: TX Particle Flame_141
+  - first:
+      213: -121874736768116015
+    second: TX Particle Flame_142
+  - first:
+      213: 3212049190071884626
+    second: TX Particle Flame_143
+  - first:
+      213: 4499695952532097801
+    second: TX Particle Flame_144
+  - first:
+      213: 4574405306817690269
+    second: TX Particle Flame_145
+  - first:
+      213: -3506579364269866334
+    second: TX Particle Flame_146
+  - first:
+      213: -62589028153507187
+    second: TX Particle Flame_147
+  - first:
+      213: -4824065086551394635
+    second: TX Particle Flame_148
+  - first:
+      213: -2813469391820568531
+    second: TX Particle Flame_149
+  - first:
+      213: 580241193730260027
+    second: TX Particle Flame_150
+  - first:
+      213: -7079925941092695776
+    second: TX Particle Flame_151
+  - first:
+      213: 7456999713493244650
+    second: TX Particle Flame_152
+  - first:
+      213: -1787209093799694699
+    second: TX Particle Flame_153
+  - first:
+      213: 9026383841389731101
+    second: TX Particle Flame_154
+  - first:
+      213: 619996274506558162
+    second: TX Particle Flame_155
+  - first:
+      213: -6058424195395230797
+    second: TX Particle Flame_156
+  - first:
+      213: 6492254162723148897
+    second: TX Particle Flame_157
+  - first:
+      213: 4075805879726155815
+    second: TX Particle Flame_158
+  - first:
+      213: -3890373462131096261
+    second: TX Particle Flame_159
+  - first:
+      213: 8467198798708660340
+    second: TX Particle Flame_160
+  - first:
+      213: 6980216087541086044
+    second: TX Particle Flame_161
+  - first:
+      213: -1913111727811897897
+    second: TX Particle Flame_162
+  - first:
+      213: 7629970546157173442
+    second: TX Particle Flame_163
+  - first:
+      213: -7512821572472932000
+    second: TX Particle Flame_164
+  - first:
+      213: -3334091127153226277
+    second: TX Particle Flame_165
+  - first:
+      213: -7858781385062376478
+    second: TX Particle Flame_166
+  - first:
+      213: -7339177076333188137
+    second: TX Particle Flame_167
+  - first:
+      213: -4594682964764948452
+    second: TX Particle Flame_168
+  - first:
+      213: 1570924054892952425
+    second: TX Particle Flame_169
+  - first:
+      213: -5767661668576980531
+    second: TX Particle Flame_170
+  - first:
+      213: 7359878401285394002
+    second: TX Particle Flame_171
+  - first:
+      213: 3672642905526184636
+    second: TX Particle Flame_172
+  - first:
+      213: -8428142516380407388
+    second: TX Particle Flame_173
+  - first:
+      213: 2596941103946575139
+    second: TX Particle Flame_174
+  - first:
+      213: 3748650460608674555
+    second: TX Particle Flame_175
+  - first:
+      213: -5168166158083199695
+    second: TX Particle Flame_176
+  - first:
+      213: 909105543855599029
+    second: TX Particle Flame_177
+  - first:
+      213: 4664088641660008498
+    second: TX Particle Flame_178
+  - first:
+      213: 6727444186345496258
+    second: TX Particle Flame_179
+  - first:
+      213: 9125342245742493606
+    second: TX Particle Flame_180
+  - first:
+      213: 573687152377325145
+    second: TX Particle Flame_181
+  - first:
+      213: -5621544999744896961
+    second: TX Particle Flame_182
+  - first:
+      213: 2108511206438987137
+    second: TX Particle Flame_183
+  - first:
+      213: 1870895033620957380
+    second: TX Particle Flame_184
+  - first:
+      213: 4265035185188936686
+    second: TX Particle Flame_185
+  - first:
+      213: -3074508101113952204
+    second: TX Particle Flame_186
+  - first:
+      213: 7103365536119367202
+    second: TX Particle Flame_187
+  - first:
+      213: -6717874333386894615
+    second: TX Particle Flame_188
+  - first:
+      213: 9011783838991297936
+    second: TX Particle Flame_189
+  - first:
+      213: 5146717420418405647
+    second: TX Particle Flame_190
+  - first:
+      213: 4532858256774791368
+    second: TX Particle Flame_191
+  - first:
+      213: -6853326103941855946
+    second: TX Particle Flame_192
+  - first:
+      213: 364909809097813110
+    second: TX Particle Flame_193
+  - first:
+      213: 2805426066211767698
+    second: TX Particle Flame_194
+  - first:
+      213: 9222954485805926697
+    second: TX Particle Flame_195
+  - first:
+      213: -2509518934954511025
+    second: TX Particle Flame_196
+  - first:
+      213: -1553315687500071945
+    second: TX Particle Flame_197
+  - first:
+      213: 6230642892483726081
+    second: TX Particle Flame_198
+  - first:
+      213: 8844170794297389434
+    second: TX Particle Flame_199
+  - first:
+      213: -719062096734958661
+    second: TX Particle Flame_200
+  - first:
+      213: 9154635054381019626
+    second: TX Particle Flame_201
+  - first:
+      213: 5761983019251084179
+    second: TX Particle Flame_202
+  - first:
+      213: -6951159636455019382
+    second: TX Particle Flame_203
+  - first:
+      213: -2880280075150107411
+    second: TX Particle Flame_204
+  - first:
+      213: -3738396130433164188
+    second: TX Particle Flame_205
+  - first:
+      213: -2410609955173510933
+    second: TX Particle Flame_206
+  - first:
+      213: -2198691070572353421
+    second: TX Particle Flame_207
+  - first:
+      213: -2210646951721892107
+    second: TX Particle Flame_208
+  - first:
+      213: -2361962964307195428
+    second: TX Particle Flame_209
+  - first:
+      213: 2375544739678976525
+    second: TX Particle Flame_210
+  - first:
+      213: 7398447006405117580
+    second: TX Particle Flame_211
+  - first:
+      213: -4430767823331824260
+    second: TX Particle Flame_212
+  - first:
+      213: 506516963442791801
+    second: TX Particle Flame_213
+  - first:
+      213: -6243097555664936772
+    second: TX Particle Flame_214
+  - first:
+      213: 4699269233745322112
+    second: TX Particle Flame_215
+  - first:
+      213: 1139024720368944409
+    second: TX Particle Flame_216
+  - first:
+      213: 5046861808906172490
+    second: TX Particle Flame_217
+  - first:
+      213: 9132925035567971111
+    second: TX Particle Flame_218
+  - first:
+      213: -2825038017762552969
+    second: TX Particle Flame_219
+  - first:
+      213: 7631062800545130784
+    second: TX Particle Flame_220
+  - first:
+      213: 1971662263772705857
+    second: TX Particle Flame_221
+  - first:
+      213: -3532548729250522374
+    second: TX Particle Flame_222
+  - first:
+      213: 1225423994183321745
+    second: TX Particle Flame_223
+  - first:
+      213: -6689677389110176085
+    second: TX Particle Flame_224
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX Particle Flame_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 212
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b7f6473091e170800000000000000
+      internalID: 8205998563133994085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 212
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89b2051f4fedd890800000000000000
+      internalID: -7431520687157495409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 211
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0225f8cec02b6e0800000000000000
+      internalID: -1823380688975290120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 211
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762744c077b2342d0800000000000000
+      internalID: -3295742711998156185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 210
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24b5fec42be11c0800000000000000
+      internalID: -4530988131585146152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 210
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61029c479022500800000000000000
+      internalID: 369868516592981671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 167
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352453c436171ae50800000000000000
+      internalID: 6818855982109901395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 40
+        width: 34
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebf6001d94965380800000000000000
+      internalID: -8982829004444206110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 40
+        width: 37
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05807e6e29add3e0800000000000000
+      internalID: -2027278240360397555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 37
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7ee934f5837490800000000000000
+      internalID: -7749703249784046531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 81
+        width: 36
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52e82e468f032db0800000000000000
+      internalID: -4817990106844962212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 82
+        width: 35
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a66856be188880800000000000000
+      internalID: -8608596919202699296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 35
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb7b6832713c7cf0800000000000000
+      internalID: -253273112396989495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 41
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8fcdddaf565290800000000000000
+      internalID: -7902023295819609367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 42
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f2af9efa044050800000000000000
+      internalID: 5783759910166787935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c64898f3233380800000000000000
+      internalID: -8992804480315111967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1fe3cd9e183dbf0800000000000000
+      internalID: -300753908681215547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_17
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c0c096f19b31550800000000000000
+      internalID: 6130447062338898947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Particle Flame_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 12
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c565b91aa522d0800000000000000
+      internalID: -3304047724212141321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43a28cc3e10ea0e41a247a2c19d5a718
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
