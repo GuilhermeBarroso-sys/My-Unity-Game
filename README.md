@@ -26,9 +26,8 @@ Jogo 2D simples feito com a game engine Unity para colocar em pratica meus estud
 # clonar repositório
 git clone https://github.com/GuilhermeBarroso-sys/My-Unity-Game.git
 ```
-Depois de clonar o repositório, basta entrar na Unity e adicionar o projeto.
+Depois de clonar o repositório, basta entrar na Unity, clique no canto superior esquerdo em "File -> Open Project" e adicione o projeto.
 
-[Imgur](https://imgur.com/a/DnJTDRL.png)
   
 # Autor
 
