@@ -28,7 +28,7 @@ git clone https://github.com/GuilhermeBarroso-sys/My-Unity-Game.git
 ```
 Depois de clonar o repositório, basta entrar na Unity e adicionar o projeto.
 
-[Imgur](https://imgur.com/lAhTW5P.png)
+[Imgur](https://imgur.com/a/DnJTDRL.png)
   
 # Autor
 
