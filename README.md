@@ -8,9 +8,9 @@ Jogo 2D simples feito com a game engine Unity para colocar em pratica meus estud
 ## Layout
 
 
-![Imgur](https://imgur.com/JNOVDoN)
-![Imgur](https://imgur.com/ahwPWfB)
-![Imgur](https://imgur.com/5VuH9Xa)
+![Imgur](https://imgur.com/JNOVDoN.png)
+![Imgur](https://imgur.com/ahwPWfB.png)
+![Imgur](https://imgur.com/5VuH9Xa.png)
 
 
 # Linguagem Utilizada
